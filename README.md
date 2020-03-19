@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Just another repository.
+
+Hello, I am Justin and now studying in Tsing Hua university.
